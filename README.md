@@ -1,16 +1,16 @@
-### Hi there 👋
+# Who Am I?
 
-<!--
-**andres-begomx/andres-begomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack web developer with more than +10000 hours of practice in different technologies. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript || ReactJS || Angular || Typescript
+- Visual Basic || Visual Basic .NET || Entity Framework
+- PHP || Windows || Linux Ubuntu || Kali Linux
+- NodeJS || NextJs || Redux || Express JS
+- Bootstrap || CSS3 || Less || Sass || Scss
+- Sequelize || MongoDB || Postgres 
+- SQL Server || MySQL || DB Lite ||
+- Rest API || Unit Testing || Webpack || Ionic
+- Adobe XD || Adobe Photoshop ||
+- Git || Github || Ionic || Android || iOS
